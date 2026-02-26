@@ -76,6 +76,6 @@ I hope you enjoy my guided project from [boot.dev](https://www.boot.dev)!
 
 ### Status
 
-Started <time>2/15/2026</time>
+Started <time datetime="2026-02-15">February 15, 2026</time>
 
-Finished <time>2/25/2026</time>
+Finished <time datetime="2026-02-25">February 25, 2026</time>
